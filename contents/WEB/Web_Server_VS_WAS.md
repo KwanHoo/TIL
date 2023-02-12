@@ -1,5 +1,7 @@
 # _Web Server와 WAS의 차이점_
 
+![image](https://user-images.githubusercontent.com/49335804/218313958-203ca038-6ae6-43d2-adb0-ade6a540e9e0.png)
+
 ## 정적 페이지
 
 - Static Pages
@@ -18,6 +20,8 @@
 ---
 
 ## 웹 서버와 WAS의 차이
+
+![image](https://user-images.githubusercontent.com/49335804/218313996-b1de48c6-ccbe-44f1-beaa-f4420bfb759c.png)
 
 ### 1) 웹서버
 
