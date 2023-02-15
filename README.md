@@ -28,3 +28,7 @@
 #### jQeury
 
 - [jQuery](https://github.com/KwanHoo/TIL/blob/main/contents/jQuery/jQuery.md)
+
+#### etc
+
+- [PM PL PE 역할](https://github.com/KwanHoo/TIL/blob/main/contents/etc/PM%20PL%20PE%20%EC%97%AD%ED%95%A0.md)
