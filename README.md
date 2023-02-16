@@ -32,3 +32,5 @@
 #### etc
 
 - [PM PL PE 역할](https://github.com/KwanHoo/TIL/blob/main/contents/etc/PM%20PL%20PE%20%EC%97%AD%ED%95%A0.md)
+
+- [공수, 요구사항정의서, 기능정의서](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EA%B3%B5%EC%88%98_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD_%EA%B8%B0%EB%8A%A5.md)
