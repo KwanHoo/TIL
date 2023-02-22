@@ -18,6 +18,7 @@
 #### SQL
 
 - [sundry](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/sundry.md)
+- [모두의 SQL](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/%EB%AA%A8%EB%91%90%EC%9D%98%20sql.md)
 
 #### WEB
 
