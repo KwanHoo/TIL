@@ -3,6 +3,9 @@
 #### Database
 
 - [DB Object](https://github.com/KwanHoo/TIL/blob/main/contents/Database/DB_Object.md)
+- [기본키, 외래킬 제약조건](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PK%2CFK_ORACLE.md)
+- [무결성, 정합성](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EB%AC%B4%EA%B2%B0%EC%84%B1_%EC%A0%95%ED%95%A9%EC%84%B1.md)
+- [엔티티, 테이블 차이](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EC%97%94%ED%8B%B0%ED%8B%B0_%ED%85%8C%EC%9D%B4%EB%B8%94%EC%B0%A8%EC%9D%B4.md)
 
 #### JSP
 
