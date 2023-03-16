@@ -59,3 +59,31 @@ session??
 
 - autoFlush 속성
   - JSP 페이지의 내용들이 브라우저에 출력되기 전에 버퍼에 다 채워질 경우 저장되어 있는 내용들을 어떻게 처리할 지를 결정하는 것임
+
+## JSP 지시어
+
+```
+<%@ page
+
+info ="문서정보"
+
+language="java" //디폴트값이 자바
+
+contentType ="html/text" //언어값
+
+import ="팩키지.클래스" //참조클래스 명시 - 지시어속성중에서 유일하게 중첩이가능하다.
+
+session ="True / False" //true일때 세션변수생성,호출,소멸 가능
+
+buffer = "크기kb"
+
+autoFlush="True / False"
+
+isThreadSafe =" True / False" Thread가 안정적인지 (멀티 쓰레드를 지원하는가?) 기본값 True
+
+errorPage = "경로 파일명" //예외처리 페이지 지정
+
+isErrorPage = "True / False" //errorPage를 지정하고 호출이 되는 페이지일때 True로 예외처리를 한다.
+
+%>
+```
