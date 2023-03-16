@@ -17,6 +17,7 @@
 
 - [JSP 기초 문법](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/JSP%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95.md)
 - [JSP의 지시자와 태그](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/JSP%EC%9D%98%20%EC%A7%80%EC%8B%9C%EC%9E%90%EC%99%80%20%ED%83%9C%EA%B7%B8.md)
+- [script의차이](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/script%EC%9D%98%EC%B0%A8%EC%9D%B4.md)
 - [웹프로그래밍 이해](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%9D%B4%ED%95%B4.md)
 - [JAVA 참고 용어](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/%EC%9E%90%EB%B0%94%20%EA%B8%B0%EC%B4%88%20%EC%9A%A9%EC%96%B4%20%EB%AC%B8%EB%B2%95.md)
 - [Java Beans](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/Java%20Beans.md)
@@ -42,6 +43,7 @@
 
 #### Spring
 
+- [log4j](https://github.com/KwanHoo/TIL/blob/main/contents/Spring/log4j.md)
 - [라이브러리vs프레임워크](https://github.com/KwanHoo/TIL/blob/main/contents/Spring/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACvs%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)
 
 #### WEB
@@ -51,6 +53,7 @@
 - [JSON](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/JSON.md)
 - [Maven](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/Maven.md)
 - [Web Server와 WAS의 차이점](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/Web_Server_VS_WAS.md)
+- [쿼리스트링](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/%EC%BF%BC%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)
 
 #### jQeury
 
