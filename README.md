@@ -56,6 +56,7 @@
 - [JSON](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/JSON.md)
 - [Maven](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/Maven.md)
 - [Web Server와 WAS의 차이점](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/Web_Server_VS_WAS.md)
+- [웹 시스템 구성](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/%EC%9B%B9%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1.md)
 - [쿼리스트링](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/%EC%BF%BC%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)
 
 #### jQeury
