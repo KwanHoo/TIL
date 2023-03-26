@@ -4,6 +4,7 @@
 
 - [DB Object](https://github.com/KwanHoo/TIL/blob/main/contents/Database/DB_Object.md)
 - [기본키, 외래킬 제약조건](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PK%2CFK_ORACLE.md)
+- [PostgreSQL 소문자 주의](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PostgreSQL%20%EC%86%8C%EB%AC%B8%EC%9E%90.md)
 - [Postgresql과 Oracle 차이점](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PostgreSQL%EA%B3%BC%20Oracle%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [데이터 타입](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
 - [무결성, 정합성](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EB%AC%B4%EA%B2%B0%EC%84%B1_%EC%A0%95%ED%95%A9%EC%84%B1.md)
@@ -18,7 +19,9 @@
 #### JSP
 
 - [JSP 기초 문법](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/JSP%20%EA%B8%B0%EC%B4%88%20%EB%AC%B8%EB%B2%95.md)
+- [JSP에서 Java 클래스 Import](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/JSP%EC%97%90%EC%84%9C%20java%20%ED%81%B4%EB%9E%98%EC%8A%A4%20import.md)
 - [JSP의 지시자와 태그](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/JSP%EC%9D%98%20%EC%A7%80%EC%8B%9C%EC%9E%90%EC%99%80%20%ED%83%9C%EA%B7%B8.md)
+- [.do파일의 의미](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/do%ED%8C%8C%EC%9D%BC%20%EC%9D%98%EB%AF%B8.md)
 - [script의차이](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/script%EC%9D%98%EC%B0%A8%EC%9D%B4.md)
 - [웹프로그래밍 이해](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%9D%B4%ED%95%B4.md)
 - [JAVA 참고 용어](https://github.com/KwanHoo/TIL/blob/main/contents/JSP/%EC%9E%90%EB%B0%94%20%EA%B8%B0%EC%B4%88%20%EC%9A%A9%EC%96%B4%20%EB%AC%B8%EB%B2%95.md)
