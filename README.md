@@ -10,6 +10,7 @@
 - [무결성, 정합성](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EB%AC%B4%EA%B2%B0%EC%84%B1_%EC%A0%95%ED%95%A9%EC%84%B1.md)
 - [엔티티, 테이블 차이](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EC%97%94%ED%8B%B0%ED%8B%B0_%ED%85%8C%EC%9D%B4%EB%B8%94%EC%B0%A8%EC%9D%B4.md)
 - [테이블과 셀 내용의 정렬](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%EC%85%80%20%EB%82%B4%EC%9A%A9%EC%9D%98%20%EC%A0%95%EB%A0%AC.md)
+- [DB 파티셔닝](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9D.md)
 
 #### DataStructure
 
@@ -68,6 +69,7 @@
 
 #### etc
 
+- [오즈리포트](https://github.com/KwanHoo/TIL/blob/main/contents/etc/OZ%20report.md)
 - [PM PL PE 역할](https://github.com/KwanHoo/TIL/blob/main/contents/etc/PM%20PL%20PE%20%EC%97%AD%ED%95%A0.md)
 
 - [공수, 요구사항정의서, 기능정의서](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EA%B3%B5%EC%88%98_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD_%EA%B8%B0%EB%8A%A5.md)
