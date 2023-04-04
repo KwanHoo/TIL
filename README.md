@@ -4,6 +4,8 @@
 
 - [DB Object](https://github.com/KwanHoo/TIL/blob/main/contents/Database/DB_Object.md)
 - [기본키, 외래킬 제약조건](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PK%2CFK_ORACLE.md)
+- [PostgreSQL CAST](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PostgreSQL%20CAST.md)
+- [PostgreSQL Numeric VS Integer](https://github.com/KwanHoo/TIL/blob/main/contents/Database/Numeric%20VS%20Integer.md)
 - [PostgreSQL 소문자 주의](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PostgreSQL%20%EC%86%8C%EB%AC%B8%EC%9E%90.md)
 - [Postgresql과 Oracle 차이점](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PostgreSQL%EA%B3%BC%20Oracle%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [데이터 타입](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
