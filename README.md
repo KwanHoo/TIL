@@ -3,6 +3,7 @@
 #### Database
 
 - [DB Object](https://github.com/KwanHoo/TIL/blob/main/contents/Database/DB_Object.md)
+- [JDBC, ODBC란](https://github.com/KwanHoo/TIL/blob/main/contents/Database/JDBC_ODBC.md)
 - [기본키, 외래킬 제약조건](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PK%2CFK_ORACLE.md)
 - [PostgreSQL CAST](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PostgreSQL%20CAST.md)
 - [PostgreSQL Numeric VS Integer](https://github.com/KwanHoo/TIL/blob/main/contents/Database/Numeric%20VS%20Integer.md)
