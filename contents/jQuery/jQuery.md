@@ -719,3 +719,51 @@ $(function () {
 ```
 
 [참고링크](http://www.tcpschool.com/jquery/intro)
+
+## jQuery 함수 객체
+
+### var jQuery
+
+```jsx
+var jQuery = function (selector, context) {
+  return new jQuery.fn.init(selector, context);
+};
+```
+
+- 내부 코드에서 jQuery.fn.init 생성자 함수를 new keyword를 통해 객체를 생성하여 넘겨줌
+- 즉, jQuery(...)를 하면 객체 하나가 리턴된다는 것을 알고 있자.
+- 함수를 참조하는 변수 jQuery는 IIFE에 의해 닫힌 스코프에서 선언된 변수임
+- 일반적으로 내부 스코프, 닫힌 스코프에서 선언된 변수는 외부에서 접근할 수 없음
+
+### 전역 변수 $, jQuery
+
+- 전역 객체 (window)의 $, jQuery 프로퍼티에 jQuery 함수를 참조함
+
+```jsx
+if (  /*... code/*/ ){
+
+    window.jQuery = window.$ = jQuery;
+
+}
+```
+
+- 전역 객체의 프로퍼티가 된다는 것은 전역변수가 된다는 의미임
+- 이후 javascript에서는 jQuery(...),$(...)를 통해 접근할 수 있음
+- 이러한 원리 덕분에 $(...) 형태로 축약해서 jQuery의 기능을 호출할 수 있음
+
+### jQuery.fn.init
+
+- jQuery라는 변수를 선언하여 function 객체를 참조하는것을 알 수 있음
+
+```jsx
+var jQuery = function (selector, context) {
+  return new jQuery.fn.init(selector, context);
+};
+```
+
+- 위처럼 내부 코드에서는 jQuery.fn.init 생성자 함수를 new keyword를 통해 객체를 생성하여 넘겨줌
+- jQuery(...)하면 즉, $(...)하면 객체 하나가 리턴된다는 것을 알게됨
+- JQuery.fn.init(...)는 결론적으로 선택자를 인자로 받아 jQuery.fn.init 함수를 이용해 DOM 요소를 선택함
+- jQuery.fn.init 함수에서는 jQuery 프로토타입 객체를 반환하는데, 이 객체에는 선택된 DOM 요소가 포함되어 있음
+
+[참고포스팅](https://boycoding.tistory.com/47)
