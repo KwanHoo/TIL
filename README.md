@@ -1,5 +1,11 @@
 # Today I Learned(TIL) Wiki
 
+#### Algorithm
+
+- [그리디](https://github.com/KwanHoo/TIL/blob/main/contents/Algorithm/ECT_03_Greedy.md)
+- [구현](https://github.com/KwanHoo/TIL/blob/main/contents/Algorithm/ECT_04_%EA%B5%AC%ED%98%84.md)
+- [DFS, BFS](https://github.com/KwanHoo/TIL/blob/main/contents/Algorithm/ECT_05_DFS_BFS.md)
+
 #### Database
 
 - [DB Object](https://github.com/KwanHoo/TIL/blob/main/contents/Database/DB_Object.md)
