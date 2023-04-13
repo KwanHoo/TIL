@@ -21,6 +21,7 @@
 - [데이터 타입](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
 - [무결성, 정합성](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EB%AC%B4%EA%B2%B0%EC%84%B1_%EC%A0%95%ED%95%A9%EC%84%B1.md)
 - [엔티티, 테이블 차이](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EC%97%94%ED%8B%B0%ED%8B%B0_%ED%85%8C%EC%9D%B4%EB%B8%94%EC%B0%A8%EC%9D%B4.md)
+- [DB 이름규칙](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%EC%9D%B4%EB%A6%84%EA%B7%9C%EC%B9%99.md)
 - [테이블과 셀 내용의 정렬](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%EC%85%80%20%EB%82%B4%EC%9A%A9%EC%9D%98%20%EC%A0%95%EB%A0%AC.md)
 - [DB 파티셔닝](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9D.md)
 
