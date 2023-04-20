@@ -67,6 +67,7 @@
 #### Spring
 
 - [log4j](https://github.com/KwanHoo/TIL/blob/main/contents/Spring/log4j.md)
+- [MVC와 API](https://github.com/KwanHoo/TIL/blob/main/contents/Spring/mvc%EC%99%80API.md)
 - [라이브러리vs프레임워크](https://github.com/KwanHoo/TIL/blob/main/contents/Spring/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%ACvs%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)
 
 #### WEB
@@ -75,7 +76,9 @@
 - [Chrome Debugging](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/Chrome_Debugging.md)
 - [JSON](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/JSON.md)
 - [Maven](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/Maven.md)
+- [REST 구성](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/REST%EA%B5%AC%EC%84%B1.md)
 - [Web Server와 WAS의 차이점](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/Web_Server_VS_WAS.md)
+- [공인IP, 사설IP, 고정IP, 유동IP](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/%EA%B3%B5%EC%9D%B8_%EC%82%AC%EC%84%A4_%EA%B3%A0%EC%A0%95_%EC%9C%A0%EB%8F%99_IP.md)
 - [웹 시스템 구성](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/%EC%9B%B9%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1.md)
 - [정규표현식](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
 - [쿼리스트링](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/%EC%BF%BC%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)
