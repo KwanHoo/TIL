@@ -42,4 +42,4 @@
 
 6. 파일 확장자는 URI에 포함시키지 않음
 
-참고 포스팅 : [https://inpa.tistory.com/entry/WEB-🌐-REST-API-정리](https://inpa.tistory.com/entry/WEB-%F0%9F%8C%90-REST-API-%EC%A0%95%EB%A6%AC)
+[참고 포스팅](https://inpa.tistory.com/entry/WEB-%F0%9F%8C%90-REST-API-%EC%A0%95%EB%A6%AC)
