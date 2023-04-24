@@ -88,6 +88,8 @@
 
 - [jQuery](https://github.com/KwanHoo/TIL/blob/main/contents/jQuery/jQuery.md)
 
+- .[val()](<https://github.com/KwanHoo/TIL/blob/main/contents/jQuery/val().md>)
+
 #### etc
 
 - [오즈리포트](https://github.com/KwanHoo/TIL/blob/main/contents/etc/OZ%20report.md)
