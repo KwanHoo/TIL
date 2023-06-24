@@ -44,6 +44,7 @@
 #### JAVA
 
 - [Exception에러출력](https://github.com/KwanHoo/TIL/blob/main/contents/Java/Exception%EC%97%90%EB%9F%AC%EC%B6%9C%EB%A0%A5.md)
+- [인터페이스 vs 추상클래스](https://github.com/KwanHoo/TIL/blob/main/contents/Java/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 
 #### MSSQL
 
