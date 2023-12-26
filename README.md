@@ -66,6 +66,10 @@
 
 - [DMZ](https://github.com/KwanHoo/TIL/blob/main/contents/Network/DMZ.md)
 
+#### Python
+
+- [이코테\_파이썬문법](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%9D%B4%EC%BD%94%ED%85%8C_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%AC%B8%EB%B2%95.md)
+
 #### SQL
 
 - [Merge Into](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/Merge%20Into.md)
