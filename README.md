@@ -68,6 +68,8 @@
 
 #### Python
 
+- [순연과 조합](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%88%9C%EC%97%B4_%EC%A1%B0%ED%95%A9.md)
+
 - [이코테\_파이썬문법](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%9D%B4%EC%BD%94%ED%85%8C_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%AC%B8%EB%B2%95.md)
 
 #### SQL
