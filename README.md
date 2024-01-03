@@ -12,6 +12,7 @@
 #### Database
 
 - [DB Preview](https://github.com/KwanHoo/TIL/blob/main/contents/Database/DB%EB%9E%80.md)
+- [DB 기본구문](https://github.com/KwanHoo/TIL/blob/main/contents/Database/DB%EA%B8%B0%EB%B3%B8%EA%B5%AC%EB%AC%B8.md)
 - [DB Object](https://github.com/KwanHoo/TIL/blob/main/contents/Database/DB_Object.md)
 - [JDBC, ODBC란](https://github.com/KwanHoo/TIL/blob/main/contents/Database/JDBC_ODBC.md)
 - [기본키, 외래킬 제약조건](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PK%2CFK_ORACLE.md)
