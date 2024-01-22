@@ -71,7 +71,7 @@
 
 #### Python
 
-- [순연과 조합](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%88%9C%EC%97%B4_%EC%A1%B0%ED%95%A9.md)
+- [순열과 조합](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%88%9C%EC%97%B4_%EC%A1%B0%ED%95%A9.md)
 
 - [이코테\_파이썬문법](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%9D%B4%EC%BD%94%ED%85%8C_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%AC%B8%EB%B2%95.md)
 
@@ -141,3 +141,17 @@
 - [JWT](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/9_JWT.md)
 
 - [React](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/10_React.md)
+
+#### Elice Part 2
+
+- [파이썬 함수](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/1_%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%95%A8%EC%88%98.md)
+
+- [자료구조](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/2_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
+
+- [데이터구조](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/3_%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0.md)
+
+- [우선순위 큐와 힙](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/4_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90%EC%99%80%ED%9E%99.md)
+
+- [문제해결절차](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/5_%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0.md)
+
+- [데이터 분석](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/6_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.md)
