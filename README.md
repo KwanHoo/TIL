@@ -159,3 +159,7 @@
 #### Elice Part 3
 
 - [딥러닝 개론](https://github.com/KwanHoo/TIL/blob/main/contents/EP3/1_%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B0%9C%EB%A1%A0.md)
+
+- [Computer Vision](https://github.com/KwanHoo/TIL/blob/main/contents/EP3/2_%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84.md)
+
+- [NLP](https://github.com/KwanHoo/TIL/blob/main/contents/EP3/3_%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC.md)
