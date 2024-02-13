@@ -166,7 +166,7 @@
 
 - [NLP](https://github.com/KwanHoo/TIL/blob/main/contents/EP3/3_%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC.md)
 
-#### Eliect Part N
+#### Elice Part N
 
 ##### SQL
 
