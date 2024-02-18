@@ -179,3 +179,11 @@
 - [서브쿼리](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/1_sql/4_%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.md)
 
 - [집합연산자](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/1_sql/5_%EC%A7%91%ED%95%A9%EC%97%B0%EC%82%B0%EC%9E%90.md)
+
+##### DB
+
+- [DB 준비하기](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/2_DB/1_DB%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0.md)
+- [정규화](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/2_DB/2_%EC%A0%95%EA%B7%9C%ED%99%94.md)
+- [View](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/2_DB/3_VIEW.md)
+- [MongoDB](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/2_DB/4_MongoDB.md)
+- [CRUD](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/2_DB/5_%EB%AA%BD%EA%B3%A0DB%20CRUD.md)
