@@ -118,6 +118,9 @@
 
 - [산출물정의서용어,프로세스개념](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EC%82%B0%EC%B6%9C%EB%AC%BC%EC%A0%95%EC%9D%98%EC%84%9C%EC%9A%A9%EC%96%B4.md)
 
+- [Design Thinking](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EB%94%94%EC%9E%90%EC%9D%B8%EC%94%BD%ED%82%B9.md)
+- [Event Storming](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md)
+
 #### boost/webBackend
 
 - [DB와 DBMS](https://github.com/KwanHoo/TIL/blob/main/contents/boost/webBackend/1-1_MySQL.md)
