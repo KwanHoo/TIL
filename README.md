@@ -75,15 +75,12 @@
 #### Network
 
 - [BackBone](https://github.com/KwanHoo/TIL/blob/main/contents/Network/BackBone.md)
-
 - [DMZ](https://github.com/KwanHoo/TIL/blob/main/contents/Network/DMZ.md)
 
 #### Python
 
 - [RecursionError](https://github.com/KwanHoo/TIL/blob/main/contents/Python/RecursionError.md)
-
 - [순열과 조합](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%88%9C%EC%97%B4_%EC%A1%B0%ED%95%A9.md)
-
 - [이코테\_파이썬문법](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%9D%B4%EC%BD%94%ED%85%8C_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%AC%B8%EB%B2%95.md)
 
 #### SQL
@@ -104,6 +101,11 @@
 - [실습 환경 설치](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/1_%EC%8B%A4%EC%8A%B5%ED%99%98%EA%B2%BD%EC%84%A4%EC%B9%98.md)
 - [스프링 부트 개념 및 특징](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/2_%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%ED%8A%B9%EC%A7%95.md)
 - [스프링 부트 퀵 스타트](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/3_%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%20%ED%80%B5%20%EC%8A%A4%ED%83%80%ED%8A%B8.md)
+- [스프링 부트 스타터](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/4_%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%20%EC%8A%A4%ED%83%80%ED%84%B0.md)
+- [스프링 부트 자동 설정](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/5_%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%20%EC%9E%90%EB%8F%99%20%EC%84%A4%EC%A0%95.md)
+- [웹 애플리케이션 테스트](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/6_%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
+- [통합 테스트](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/7_%ED%86%B5%ED%95%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
+- [스프링 부트 로깅과 빌드](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/8_%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%20%EB%A1%9C%EA%B9%85%EA%B3%BC%20%EB%B9%8C%EB%93%9C.md)
 
 #### WEB
 
@@ -122,18 +124,14 @@
 #### jQeury
 
 - [jQuery](https://github.com/KwanHoo/TIL/blob/main/contents/jQuery/jQuery.md)
-
 - .[val()](<https://github.com/KwanHoo/TIL/blob/main/contents/jQuery/val().md>)
 
 #### etc
 
 - [오즈리포트](https://github.com/KwanHoo/TIL/blob/main/contents/etc/OZ%20report.md)
 - [PM PL PE 역할](https://github.com/KwanHoo/TIL/blob/main/contents/etc/PM%20PL%20PE%20%EC%97%AD%ED%95%A0.md)
-
 - [공수, 요구사항정의서, 기능정의서](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EA%B3%B5%EC%88%98_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD_%EA%B8%B0%EB%8A%A5.md)
-
 - [산출물정의서용어,프로세스개념](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EC%82%B0%EC%B6%9C%EB%AC%BC%EC%A0%95%EC%9D%98%EC%84%9C%EC%9A%A9%EC%96%B4.md)
-
 - [Design Thinking](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EB%94%94%EC%9E%90%EC%9D%B8%EC%94%BD%ED%82%B9.md)
 - [Event Storming](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md)
 
@@ -144,45 +142,29 @@
 #### Elice Part 1
 
 - [HTML,CSS](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/1_HTML-CSS.md)
-
 - [GIT](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/2_GIT.md)
-
 - [Javascript](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/3_Javascript.md)
-
 - [Node.js](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/4_Nodejs.md)
-
 - [NPM](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/5_NPM.md)
-
 - [WEB](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/6_WEB.md)
-
 - [Express.js](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/7_Expressjs.md)
-
 - [MongoDB](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/8_MongoDB.md)
-
 - [JWT](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/9_JWT.md)
-
 - [React](https://github.com/KwanHoo/TIL/blob/main/contents/EP1/10_React.md)
 
 #### Elice Part 2
 
 - [파이썬 함수](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/1_%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%95%A8%EC%88%98.md)
-
 - [자료구조](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/2_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
-
 - [데이터구조](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/3_%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0.md)
-
 - [우선순위 큐와 힙](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/4_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90%EC%99%80%ED%9E%99.md)
-
 - [문제해결절차](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/5_%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0.md)
-
 - [데이터 분석](https://github.com/KwanHoo/TIL/blob/main/contents/EP2/6_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.md)
 
 #### Elice Part 3
 
 - [딥러닝 개론](https://github.com/KwanHoo/TIL/blob/main/contents/EP3/1_%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B0%9C%EB%A1%A0.md)
-
 - [Computer Vision](https://github.com/KwanHoo/TIL/blob/main/contents/EP3/2_%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84.md)
-
 - [NLP](https://github.com/KwanHoo/TIL/blob/main/contents/EP3/3_%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC.md)
 
 #### Elice Part N
