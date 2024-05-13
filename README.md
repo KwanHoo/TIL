@@ -17,6 +17,7 @@
 - [DB Object](https://github.com/KwanHoo/TIL/blob/main/contents/Database/DB_Object.md)
 - [InnoDB](https://github.com/KwanHoo/TIL/blob/main/contents/Database/InnoDB.md)
 - [JDBC, ODBC란](https://github.com/KwanHoo/TIL/blob/main/contents/Database/JDBC_ODBC.md)
+- [몽고 DB 장점](https://github.com/KwanHoo/TIL/blob/main/contents/Database/Mongo%20DB%20%EC%9E%A5%EC%A0%90.md)
 - [기본키, 외래킬 제약조건](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PK%2CFK_ORACLE.md)
 - [PostgreSQL CAST](https://github.com/KwanHoo/TIL/blob/main/contents/Database/PostgreSQL%20CAST.md)
 - [PostgreSQL Numeric VS Integer](https://github.com/KwanHoo/TIL/blob/main/contents/Database/Numeric%20VS%20Integer.md)
@@ -61,6 +62,7 @@
 #### MSA알아보기
 
 - [MSA란 무엇인가](https://github.com/KwanHoo/TIL/blob/main/contents/MSA%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/1_MSA%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
+- [Spring Cloud](https://github.com/KwanHoo/TIL/blob/main/contents/MSA%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/2_SpringCloud.md)
 
 #### MSSQL
 
