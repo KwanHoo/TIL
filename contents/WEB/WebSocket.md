@@ -56,3 +56,17 @@
 
 - Kafka, RabbitMQ
 - 서비스들 간에 데이터를 주고 받는 방법중에 하나
+- RestAPI/ RPC 를 사용하면 Synchronous 하게 데이터를 주고 받음
+- 메시지 큐를 사용하면 Asynchronous 하게 데이터를 처리할 수 있음
+- Synchronous (동기식), Asynchronous (비동기식)
+
+- 퍼블리셔 : 이벤트가 일어났을때 메시지큐에 넣는것
+- 서브스크라이브 : 메시지 큐 받는 것
+
+- 서비스 A가 메시지 보내고 싶어
+  - 메시지 큐에 대한 디펜던시만 잇음
+    - 서비스 B : DB에 메시지 저장
+    - 서비스 C : 푸시 알림으로 메시지 왔는거 보냄
+    - 서비스 D : 유저한테 message를 포워드 해줌
+
+[참고링크](https://www.youtube.com/watch?v=VODXNECZOBQ)
