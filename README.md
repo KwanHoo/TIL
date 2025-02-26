@@ -89,6 +89,7 @@
 
 - [IN과 =연산자 비교](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/IN%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%3D%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%B9%84%EA%B5%90.md)
 - [Merge Into](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/Merge%20Into.md)
+- [TO_CHAR와 TO_DATE 비교](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/TO_CHAR%EC%99%80%20TO_DATE%20%EB%B9%84%EA%B5%90.md)
 - [sundry](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/sundry.md)
 - [모두의 SQL](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/%EB%AA%A8%EB%91%90%EC%9D%98%20sql.md)
 
@@ -188,3 +189,14 @@
 - [VIEW](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/2_DB/3_VIEW.md)
 - [Mongo DB](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/2_DB/4_MongoDB.md)
 - [MongoDB CRUD](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/2_DB/5_%EB%AA%BD%EA%B3%A0DB%20CRUD.md)
+
+##### 구정처기 데이터베이스
+
+- [데이터베이스 정의](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/01_%ED%85%8C%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%A0%95%EC%9D%98.md)
+- [DBMS, 스키마, 데이터언어, DBA](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/02_DBMS%2C%20%EC%8A%A4%ED%82%A4%EB%A7%88%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%96%B8%EC%96%B4%2C%20DBA.md)
+- [절차적언어 vs 비절차적언어](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/02-1_%EC%A0%88%EC%B0%A8%EC%A0%81%EC%96%B8%EC%96%B4%20vs%20%EB%B9%84%EC%A0%88%EC%B0%A8%EC%A0%81%EC%96%B8%EC%96%B4.md)
+- [DB 설계, 데이터 모델, ER 모델](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/03_DB%EC%84%A4%EA%B3%84%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%2C%20ER%EB%AA%A8%EB%8D%B8.md)
+- [논리적 데이터 모델, 관계 데이터 모델](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/04_%EB%85%BC%EB%A6%AC%EC%A0%81%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%2C%20%EA%B4%80%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8.md)
+- [정규화, 관계 데이터 연산, 관계 대수](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/05_%EC%A0%95%EA%B7%9C%ED%99%94%2C%20%EA%B4%80%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%B0%EC%82%B0%2C%20%EA%B4%80%EA%B3%84%EB%8C%80%EC%88%98.md)
+- [SQL, 시스템 카탈로그, 뷰](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/06_SQL%2C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8%2C%20%EB%B7%B0.md)
+- [고급데이터베이스](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/07_%EA%B3%A0%EA%B8%89%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
