@@ -196,7 +196,26 @@
 - [DBMS, 스키마, 데이터언어, DBA](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/02_DBMS%2C%20%EC%8A%A4%ED%82%A4%EB%A7%88%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%96%B8%EC%96%B4%2C%20DBA.md)
 - [절차적언어 vs 비절차적언어](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/02-1_%EC%A0%88%EC%B0%A8%EC%A0%81%EC%96%B8%EC%96%B4%20vs%20%EB%B9%84%EC%A0%88%EC%B0%A8%EC%A0%81%EC%96%B8%EC%96%B4.md)
 - [DB 설계, 데이터 모델, ER 모델](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/03_DB%EC%84%A4%EA%B3%84%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%2C%20ER%EB%AA%A8%EB%8D%B8.md)
-- [논리적 데이터 모델, 관계 데이터 모델](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/04_%EB%85%BC%EB%A6%AC%EC%A0%81%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%2C%20%EA%B4%80%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8.md)
+- [관계 데이터 모델](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/04_%EB%85%BC%EB%A6%AC%EC%A0%81%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%2C%20%EA%B4%80%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8.md)
 - [정규화, 관계 데이터 연산, 관계 대수](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/05_%EC%A0%95%EA%B7%9C%ED%99%94%2C%20%EA%B4%80%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%B0%EC%82%B0%2C%20%EA%B4%80%EA%B3%84%EB%8C%80%EC%88%98.md)
 - [SQL, 시스템 카탈로그, 뷰](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/06_SQL%2C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8%2C%20%EB%B7%B0.md)
 - [고급데이터베이스](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/07_%EA%B3%A0%EA%B8%89%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
+
+###### 혼공네 컴퓨터 네트워크 시작하기
+
+- [컴퓨터 네트워크 알아야 하는 이유](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/01-1_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%95%8C%EC%95%84%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [네트워크 거시적으로 살펴보기](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/01-2_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B1%B0%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
+- [네트워크 미시적으로 살펴보기](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/01-3_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%AF%B8%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
+
+###### 혼공네 물리 계층과 데이터 링크 계층
+
+- [이더넷](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-1_%EC%9D%B4%EB%8D%94%EB%84%B7.md)
+- [NIC와 케이블](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-2_NIC%EC%99%80%20%EC%BC%80%EC%9D%B4%EB%B8%94.md)
+- [허브](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-3_%ED%97%88%EB%B8%8C.md)
+- [스위치](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-4_%EC%8A%A4%EC%9C%84%EC%B9%98.md)
+
+###### 혼공네 네트워크 계층
+
+- [LAN을 넘어서는 네트워크 계층](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/03_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5/03-1_LAN%EC%9D%84%20%EB%84%98%EC%96%B4%EC%84%9C%EB%8A%94%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5.md)
+- [IP 주소](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/03_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5/03-2_IP%20%EC%A3%BC%EC%86%8C.md)
+- [라우팅](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/03_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5/03-3_%EB%9D%BC%EC%9A%B0%ED%8C%85.md)
