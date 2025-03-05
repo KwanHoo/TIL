@@ -30,6 +30,8 @@
 - [테이블과 셀 내용의 정렬](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%EC%85%80%20%EB%82%B4%EC%9A%A9%EC%9D%98%20%EC%A0%95%EB%A0%AC.md)
 - [DB 파티셔닝](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9D.md)
 
+#### 혼자 공부하는 네트워크 \_ 강민철 지음
+
 ##### 혼공네 컴퓨터 네트워크 시작하기
 
 - [컴퓨터 네트워크 알아야 하는 이유](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/01-1_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%95%8C%EC%95%84%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
@@ -102,6 +104,11 @@
 - [웹 애플리케이션 테스트](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/6_%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 - [통합 테스트](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/7_%ED%86%B5%ED%95%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 - [스프링 부트 로깅과 빌드](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Basic/8_%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%20%EB%A1%9C%EA%B9%85%EA%B3%BC%20%EB%B9%8C%EB%93%9C.md)
+
+#### SpringBoot_Application
+
+- [스프링 부트와 JPA](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Application/1_%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%EC%99%80%20JPA.md)
+- [JPA 설정 이해하기](https://github.com/KwanHoo/TIL/blob/main/contents/SpringBoot_Application/2_JPA%20%EC%84%A4%EC%A0%95%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 
 #### WEB
 
