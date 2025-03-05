@@ -30,14 +30,40 @@
 - [테이블과 셀 내용의 정렬](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%EC%85%80%20%EB%82%B4%EC%9A%A9%EC%9D%98%20%EC%A0%95%EB%A0%AC.md)
 - [DB 파티셔닝](https://github.com/KwanHoo/TIL/blob/main/contents/Database/%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9D.md)
 
-#### DataStructure
+##### 혼공네 컴퓨터 네트워크 시작하기
 
-- [리스트컴프리헨션](https://github.com/KwanHoo/TIL/blob/main/contents/DataStructure/%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%BB%B4%ED%94%84%EB%A6%AC%ED%97%A8%EC%85%98.md)
-- [복잡도](https://github.com/KwanHoo/TIL/blob/main/contents/DataStructure/%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+- [컴퓨터 네트워크 알아야 하는 이유](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/01-1_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%95%8C%EC%95%84%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [네트워크 거시적으로 살펴보기](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/01-2_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B1%B0%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
+- [네트워크 미시적으로 살펴보기](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/01-3_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%AF%B8%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
 
-#### FrontEnd
+##### 혼공네 물리 계층과 데이터 링크 계층
 
-- [Intro](https://github.com/KwanHoo/TIL/blob/main/contents/FrontEnd/1_Intro.md)
+- [이더넷](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-1_%EC%9D%B4%EB%8D%94%EB%84%B7.md)
+- [NIC와 케이블](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-2_NIC%EC%99%80%20%EC%BC%80%EC%9D%B4%EB%B8%94.md)
+- [허브](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-3_%ED%97%88%EB%B8%8C.md)
+- [스위치](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-4_%EC%8A%A4%EC%9C%84%EC%B9%98.md)
+
+##### 혼공네 네트워크 계층
+
+- [LAN을 넘어서는 네트워크 계층](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/03_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5/03-1_LAN%EC%9D%84%20%EB%84%98%EC%96%B4%EC%84%9C%EB%8A%94%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5.md)
+- [IP 주소](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/03_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5/03-2_IP%20%EC%A3%BC%EC%86%8C.md)
+- [라우팅](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/03_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5/03-3_%EB%9D%BC%EC%9A%B0%ED%8C%85.md)
+
+##### 혼공네 전송계층
+
+- [전송 계층 개요](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/04_%EC%A0%84%EC%86%A1%EA%B3%84%EC%B8%B5/04-1_%EC%A0%84%EC%86%A1%20%EA%B3%84%EC%B8%B5%20%EA%B0%9C%EC%9A%94%20IP%EC%9D%98%20%ED%95%9C%EA%B3%84%EC%99%80%20%ED%8F%AC%ED%8A%B8.md)
+- [TCP와 UDP](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/04_%EC%A0%84%EC%86%A1%EA%B3%84%EC%B8%B5/04-2_TCP%EC%99%80%20UDP.md)
+
+##### 구정처기 데이터베이스
+
+- [데이터베이스 정의](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/01_%ED%85%8C%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%A0%95%EC%9D%98.md)
+- [DBMS, 스키마, 데이터언어, DBA](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/02_DBMS%2C%20%EC%8A%A4%ED%82%A4%EB%A7%88%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%96%B8%EC%96%B4%2C%20DBA.md)
+- [절차적언어 vs 비절차적언어](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/02-1_%EC%A0%88%EC%B0%A8%EC%A0%81%EC%96%B8%EC%96%B4%20vs%20%EB%B9%84%EC%A0%88%EC%B0%A8%EC%A0%81%EC%96%B8%EC%96%B4.md)
+- [DB 설계, 데이터 모델, ER 모델](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/03_DB%EC%84%A4%EA%B3%84%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%2C%20ER%EB%AA%A8%EB%8D%B8.md)
+- [관계 데이터 모델](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/04_%EB%85%BC%EB%A6%AC%EC%A0%81%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%2C%20%EA%B4%80%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8.md)
+- [정규화, 관계 데이터 연산, 관계 대수](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/05_%EC%A0%95%EA%B7%9C%ED%99%94%2C%20%EA%B4%80%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%B0%EC%82%B0%2C%20%EA%B4%80%EA%B3%84%EB%8C%80%EC%88%98.md)
+- [SQL, 시스템 카탈로그, 뷰](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/06_SQL%2C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8%2C%20%EB%B7%B0.md)
+- [고급데이터베이스](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/07_%EA%B3%A0%EA%B8%89%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
 
 #### JSP
 
@@ -58,40 +84,6 @@
 - [인터페이스 vs 추상클래스](https://github.com/KwanHoo/TIL/blob/main/contents/Java/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
 - [Socket 통신](https://github.com/KwanHoo/TIL/blob/main/contents/Java/Socket%ED%86%B5%EC%8B%A0.md)
 - [추상화, 상속](https://github.com/KwanHoo/TIL/blob/main/contents/Java/%EC%B6%94%EC%83%81%ED%99%94%2C%20%EC%83%81%EC%86%8D.md)
-
-#### MSA알아보기
-
-- [MSA란 무엇인가](https://github.com/KwanHoo/TIL/blob/main/contents/MSA%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/1_MSA%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
-- [Spring Cloud](https://github.com/KwanHoo/TIL/blob/main/contents/MSA%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/2_SpringCloud.md)
-
-#### MSSQL
-
-- [case when then](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/CASE_WHEN.md)
-- [convert와 cast](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/CONVERT_CAST.md)
-- [convert float 소수점](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/CONVER_FLOAT.md)
-- [DATEADD](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/DATEADD.md)
-- [Left Right](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/Left_Right.md)
-- [ISNULL 함수](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/ISNULL.md)
-- [Substring함수](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/SUBSTRING.md)
-
-#### Network
-
-- [BackBone](https://github.com/KwanHoo/TIL/blob/main/contents/Network/BackBone.md)
-- [DMZ](https://github.com/KwanHoo/TIL/blob/main/contents/Network/DMZ.md)
-
-#### Python
-
-- [RecursionError](https://github.com/KwanHoo/TIL/blob/main/contents/Python/RecursionError.md)
-- [순열과 조합](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%88%9C%EC%97%B4_%EC%A1%B0%ED%95%A9.md)
-- [이코테\_파이썬문법](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%9D%B4%EC%BD%94%ED%85%8C_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%AC%B8%EB%B2%95.md)
-
-#### SQL
-
-- [IN과 =연산자 비교](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/IN%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%3D%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%B9%84%EA%B5%90.md)
-- [Merge Into](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/Merge%20Into.md)
-- [TO_CHAR와 TO_DATE 비교](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/TO_CHAR%EC%99%80%20TO_DATE%20%EB%B9%84%EA%B5%90.md)
-- [sundry](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/sundry.md)
-- [모두의 SQL](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/%EB%AA%A8%EB%91%90%EC%9D%98%20sql.md)
 
 #### Spring
 
@@ -125,24 +117,6 @@
 - [웹 시스템 구성](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/%EC%9B%B9%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1.md)
 - [정규표현식](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
 - [쿼리스트링](https://github.com/KwanHoo/TIL/blob/main/contents/WEB/%EC%BF%BC%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A7%81.md)
-
-#### jQeury
-
-- [jQuery](https://github.com/KwanHoo/TIL/blob/main/contents/jQuery/jQuery.md)
-- .[val()](<https://github.com/KwanHoo/TIL/blob/main/contents/jQuery/val().md>)
-
-#### etc
-
-- [오즈리포트](https://github.com/KwanHoo/TIL/blob/main/contents/etc/OZ%20report.md)
-- [PM PL PE 역할](https://github.com/KwanHoo/TIL/blob/main/contents/etc/PM%20PL%20PE%20%EC%97%AD%ED%95%A0.md)
-- [공수, 요구사항정의서, 기능정의서](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EA%B3%B5%EC%88%98_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD_%EA%B8%B0%EB%8A%A5.md)
-- [산출물정의서용어,프로세스개념](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EC%82%B0%EC%B6%9C%EB%AC%BC%EC%A0%95%EC%9D%98%EC%84%9C%EC%9A%A9%EC%96%B4.md)
-- [Design Thinking](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EB%94%94%EC%9E%90%EC%9D%B8%EC%94%BD%ED%82%B9.md)
-- [Event Storming](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md)
-
-#### boost/webBackend
-
-- [DB와 DBMS](https://github.com/KwanHoo/TIL/blob/main/contents/boost/webBackend/1-1_MySQL.md)
 
 #### Elice Part 1
 
@@ -190,32 +164,63 @@
 - [Mongo DB](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/2_DB/4_MongoDB.md)
 - [MongoDB CRUD](https://github.com/KwanHoo/TIL/blob/main/contents/EPn/2_DB/5_%EB%AA%BD%EA%B3%A0DB%20CRUD.md)
 
-##### 구정처기 데이터베이스
+#### SQL
 
-- [데이터베이스 정의](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/01_%ED%85%8C%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%A0%95%EC%9D%98.md)
-- [DBMS, 스키마, 데이터언어, DBA](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/02_DBMS%2C%20%EC%8A%A4%ED%82%A4%EB%A7%88%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%96%B8%EC%96%B4%2C%20DBA.md)
-- [절차적언어 vs 비절차적언어](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/02-1_%EC%A0%88%EC%B0%A8%EC%A0%81%EC%96%B8%EC%96%B4%20vs%20%EB%B9%84%EC%A0%88%EC%B0%A8%EC%A0%81%EC%96%B8%EC%96%B4.md)
-- [DB 설계, 데이터 모델, ER 모델](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/03_DB%EC%84%A4%EA%B3%84%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%2C%20ER%EB%AA%A8%EB%8D%B8.md)
-- [관계 데이터 모델](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/04_%EB%85%BC%EB%A6%AC%EC%A0%81%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8%2C%20%EA%B4%80%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%AA%A8%EB%8D%B8.md)
-- [정규화, 관계 데이터 연산, 관계 대수](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/05_%EC%A0%95%EA%B7%9C%ED%99%94%2C%20%EA%B4%80%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%B0%EC%82%B0%2C%20%EA%B4%80%EA%B3%84%EB%8C%80%EC%88%98.md)
-- [SQL, 시스템 카탈로그, 뷰](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/06_SQL%2C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%B9%B4%ED%83%88%EB%A1%9C%EA%B7%B8%2C%20%EB%B7%B0.md)
-- [고급데이터베이스](https://github.com/KwanHoo/TIL/blob/main/contents/OldJeongcheogi/Database/07_%EA%B3%A0%EA%B8%89%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
+- [IN과 =연산자 비교](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/IN%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80%20%3D%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%B9%84%EA%B5%90.md)
+- [Merge Into](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/Merge%20Into.md)
+- [TO_CHAR와 TO_DATE 비교](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/TO_CHAR%EC%99%80%20TO_DATE%20%EB%B9%84%EA%B5%90.md)
+- [sundry](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/sundry.md)
+- [모두의 SQL](https://github.com/KwanHoo/TIL/blob/main/contents/SQL/%EB%AA%A8%EB%91%90%EC%9D%98%20sql.md)
 
-###### 혼공네 컴퓨터 네트워크 시작하기
+#### MSSQL
 
-- [컴퓨터 네트워크 알아야 하는 이유](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/01-1_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%95%8C%EC%95%84%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
-- [네트워크 거시적으로 살펴보기](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/01-2_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B1%B0%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
-- [네트워크 미시적으로 살펴보기](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/01-3_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%AF%B8%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
+- [case when then](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/CASE_WHEN.md)
+- [convert와 cast](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/CONVERT_CAST.md)
+- [convert float 소수점](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/CONVER_FLOAT.md)
+- [DATEADD](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/DATEADD.md)
+- [Left Right](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/Left_Right.md)
+- [ISNULL 함수](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/ISNULL.md)
+- [Substring함수](https://github.com/KwanHoo/TIL/blob/main/contents/MSSQL/SUBSTRING.md)
 
-###### 혼공네 물리 계층과 데이터 링크 계층
+#### Network
 
-- [이더넷](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-1_%EC%9D%B4%EB%8D%94%EB%84%B7.md)
-- [NIC와 케이블](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-2_NIC%EC%99%80%20%EC%BC%80%EC%9D%B4%EB%B8%94.md)
-- [허브](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-3_%ED%97%88%EB%B8%8C.md)
-- [스위치](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/02_%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5/02-4_%EC%8A%A4%EC%9C%84%EC%B9%98.md)
+- [BackBone](https://github.com/KwanHoo/TIL/blob/main/contents/Network/BackBone.md)
+- [DMZ](https://github.com/KwanHoo/TIL/blob/main/contents/Network/DMZ.md)
 
-###### 혼공네 네트워크 계층
+#### Python
 
-- [LAN을 넘어서는 네트워크 계층](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/03_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5/03-1_LAN%EC%9D%84%20%EB%84%98%EC%96%B4%EC%84%9C%EB%8A%94%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5.md)
-- [IP 주소](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/03_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5/03-2_IP%20%EC%A3%BC%EC%86%8C.md)
-- [라우팅](https://github.com/KwanHoo/TIL/blob/main/contents/%ED%98%BC%EA%B3%B5%EB%84%A4/03_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5/03-3_%EB%9D%BC%EC%9A%B0%ED%8C%85.md)
+- [RecursionError](https://github.com/KwanHoo/TIL/blob/main/contents/Python/RecursionError.md)
+- [순열과 조합](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%88%9C%EC%97%B4_%EC%A1%B0%ED%95%A9.md)
+- [이코테\_파이썬문법](https://github.com/KwanHoo/TIL/blob/main/contents/Python/%EC%9D%B4%EC%BD%94%ED%85%8C_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%AC%B8%EB%B2%95.md)
+
+#### MSA알아보기
+
+- [MSA란 무엇인가](https://github.com/KwanHoo/TIL/blob/main/contents/MSA%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/1_MSA%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
+- [Spring Cloud](https://github.com/KwanHoo/TIL/blob/main/contents/MSA%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/2_SpringCloud.md)
+
+#### etc
+
+- [오즈리포트](https://github.com/KwanHoo/TIL/blob/main/contents/etc/OZ%20report.md)
+- [PM PL PE 역할](https://github.com/KwanHoo/TIL/blob/main/contents/etc/PM%20PL%20PE%20%EC%97%AD%ED%95%A0.md)
+- [공수, 요구사항정의서, 기능정의서](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EA%B3%B5%EC%88%98_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD_%EA%B8%B0%EB%8A%A5.md)
+- [산출물정의서용어,프로세스개념](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EC%82%B0%EC%B6%9C%EB%AC%BC%EC%A0%95%EC%9D%98%EC%84%9C%EC%9A%A9%EC%96%B4.md)
+- [Design Thinking](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EB%94%94%EC%9E%90%EC%9D%B8%EC%94%BD%ED%82%B9.md)
+- [Event Storming](https://github.com/KwanHoo/TIL/blob/main/contents/etc/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.md)
+
+#### boost/webBackend
+
+- [DB와 DBMS](https://github.com/KwanHoo/TIL/blob/main/contents/boost/webBackend/1-1_MySQL.md)
+
+#### jQeury
+
+- [jQuery](https://github.com/KwanHoo/TIL/blob/main/contents/jQuery/jQuery.md)
+- .[val()](<https://github.com/KwanHoo/TIL/blob/main/contents/jQuery/val().md>)
+
+#### DataStructure
+
+- [리스트컴프리헨션](https://github.com/KwanHoo/TIL/blob/main/contents/DataStructure/%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%BB%B4%ED%94%84%EB%A6%AC%ED%97%A8%EC%85%98.md)
+- [복잡도](https://github.com/KwanHoo/TIL/blob/main/contents/DataStructure/%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+
+#### FrontEnd
+
+- [Intro](https://github.com/KwanHoo/TIL/blob/main/contents/FrontEnd/1_Intro.md)
